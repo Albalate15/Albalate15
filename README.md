@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andre Albalate
 - 👀 I’m interested in photography, travelling, architectural houses, biking, jogging, fitness in general and non-fiction books
-- 🌱 I’m currently learning Web Development and Tensorflow Object Detection
+- 🌱 I’m currently learning Web Development and Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, my email address is andrealbalate168@gmail.com
 
